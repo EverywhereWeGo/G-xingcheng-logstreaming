@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=dibbhatt -DartifactId=kafka-spark-consumer -Dversion=1.0.9 -Dpackaging=jar -Dfile=E:\javaLib\kafka-spark-consumer-1.0.9.jar
